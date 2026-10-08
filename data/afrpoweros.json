@@ -1380,6 +1380,77 @@
       ],
       "confidence": "Verified",
       "last_verified": "2026-09-13"
+    },
+    {
+      "country": "Cameroon",
+      "region": "Central Africa",
+      "program_status": "None",
+      "iaea_milestone_phase": null,
+      "commercial_reactors_operating": 0,
+      "commercial_reactors_under_construction": 0,
+      "capacity_gw_planned": null,
+      "first_grid_target_year": null,
+      "research_reactor": null,
+      "regulator": "Radiological Safety and Nuclear Security Authority (ASRAN)",
+      "implementing_agency": "Ministry of Scientific Research and Innovation (MINRESI)",
+      "vendors": [],
+      "agreements": [],
+      "electricity_access_pct": 71.0,
+      "installed_capacity_mw": null,
+      "notes": "Cameroon has not launched a nuclear power programme according to an IAEA conference contribution. Its IAEA technical cooperation has focused on radiation protection and nuclear medicine. MINRESI stated in 2023 that it planned research toward using nuclear technology for electricity generation, but no current nuclear-power project, capacity target, vendor agreement, or IAEA Milestones phase was identified in the reviewed sources.",
+      "key_events": [
+        {
+          "date": "2023-05",
+          "title": "Cameroon revises its 2024-2027 IAEA technical cooperation framework, focused on radiation protection and nuclear medicine",
+          "source": "https://minresi.gov.cm/en/cameroon-iaea-cooperation/"
+        },
+        {
+          "date": "2023-09",
+          "title": "MINRESI states its intention to develop research on using nuclear technology for electricity generation",
+          "source": "https://minresi.gov.cm/en/the-minresi-exhibits-its-potential-at-the-2nd-russia-africa-forum/"
+        },
+        {
+          "date": "2025-08",
+          "title": "MINRESI identifies the Radiological Safety and Nuclear Security Authority (ASRAN) in Cameroon-IAEA cooperation",
+          "source": "https://minresi.gov.cm/en/audience-granted-by-the-minister-of-scientific-research-and-innovation-to-iaea-project-management-officer-for-cameroon/"
+        }
+      ],
+      "sources": [
+        "https://conferences.iaea.org/event/44/contributions/7941/contribution.pdf",
+        "https://minresi.gov.cm/en/cameroon-iaea-cooperation/",
+        "https://minresi.gov.cm/en/audience-granted-by-the-minister-of-scientific-research-and-innovation-to-iaea-project-management-officer-for-cameroon/",
+        "https://minresi.gov.cm/en/the-minresi-exhibits-its-potential-at-the-2nd-russia-africa-forum/",
+        "https://www.worldbank.org/en/news/feature/2025/01/16/cameroon-journey-toward-affordable-reliable-and-universal-electricity-access-for-all"
+      ],
+      "confidence": "Unverified",
+      "last_verified": "2026-10-05",
+      "assertions": [
+        {
+          "field": "program_status",
+          "value": "None",
+          "confidence": "Unverified",
+          "source_url": "https://conferences.iaea.org/event/44/contributions/7941/contribution.pdf",
+          "observation_date": "2014",
+          "verification_date": "2026-10-05"
+        },
+        {
+          "field": "regulator",
+          "value": "Radiological Safety and Nuclear Security Authority (ASRAN)",
+          "confidence": "Verified",
+          "source_url": "https://minresi.gov.cm/en/audience-granted-by-the-minister-of-scientific-research-and-innovation-to-iaea-project-management-officer-for-cameroon/",
+          "observation_date": "2025-08",
+          "verification_date": "2026-10-05"
+        },
+        {
+          "field": "electricity_access_pct",
+          "value": 71.0,
+          "confidence": "Verified",
+          "source_url": "https://www.worldbank.org/en/news/feature/2025/01/16/cameroon-journey-toward-affordable-reliable-and-universal-electricity-access-for-all",
+          "observation_date": "2025-01",
+          "verification_date": "2026-10-05"
+        }
+      ]
     }
   ]
 }
+

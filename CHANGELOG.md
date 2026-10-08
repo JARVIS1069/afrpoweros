@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Added Cameroon (`None`, `Unverified`) with MINRESI, IAEA and World Bank sources; no current nuclear-power project, capacity target or IAEA Milestones phase was identified in the reviewed sources.
 - Initial project skeleton.
 - Repository governance files (README, LICENSE, LICENSE-DATA, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY, CHANGELOG, AGENTS, CITATION, .editorconfig, .gitignore).
 - CI workflow: schema + dataset + CSV validation on push and pull request.
