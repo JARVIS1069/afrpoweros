@@ -5,7 +5,7 @@
 ![CI](https://github.com/kawacukennedy/afrpoweros/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)
-![Countries: 21](https://img.shields.io/badge/Countries-21-orange.svg)
+![Countries: 24](https://img.shields.io/badge/Countries-24-orange.svg)
 [![Live map](https://img.shields.io/badge/Live%20map-GitHub%20Pages-0a84ff)](https://kawacukennedy.github.io/afrpoweros/)
 
 **Open, cited intelligence on African nuclear & energy infrastructure programs.**
@@ -47,7 +47,7 @@ The static site is generated from the dataset by `scripts/build_site.py`
 
 - **Homepage** (`site/index.html`) — interactive map, country table, FAQ,
   dataset + FAQPage structured data, Open Graph/Twitter meta.
-- **Per-country pages** — `site/dist/countries/<slug>.html` for all 20
+- **Per-country pages** — `site/dist/countries/<slug>.html` for all 24
   countries, each with its own title, meta description, canonical URL,
   key facts, key events, sources and related-country links (targets
   long-tail "&lt;country&gt; nuclear program" searches).

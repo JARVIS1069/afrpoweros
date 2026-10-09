@@ -7,8 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Updated the README country count to reflect all 24 dataset records.
+
 ### Added
 
+- Added a conservative Namibia country record, with nuclear-energy interest distinguished from an active power project.
+- Added a conservative Côte d'Ivoire country record based on the IAEA's 2025 report on its legal path for nuclear power.
 - Added Cameroon (`None`, `Unverified`) with MINRESI, IAEA and World Bank sources; no current nuclear-power project, capacity target or IAEA Milestones phase was identified in the reviewed sources.
 - Initial project skeleton.
 - Repository governance files (README, LICENSE, LICENSE-DATA, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY, CHANGELOG, AGENTS, CITATION, .editorconfig, .gitignore).
