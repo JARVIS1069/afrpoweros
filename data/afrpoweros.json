@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "generated": "2026-08-16",
+  "generated": "2026-10-09",
   "countries": [
     {
       "country": "Rwanda",
@@ -1450,7 +1450,60 @@
           "verification_date": "2026-10-05"
         }
       ]
+    },
+    {
+      "country": "Namibia",
+      "region": "Southern Africa",
+      "program_status": "Exploring",
+      "iaea_milestone_phase": null,
+      "commercial_reactors_operating": 0,
+      "commercial_reactors_under_construction": 0,
+      "capacity_gw_planned": null,
+      "first_grid_target_year": null,
+      "research_reactor": null,
+      "regulator": "Atomic Energy Board / National Radiation Protection Authority (per WNA; current status unverified)",
+      "implementing_agency": "Not identified in reviewed sources",
+      "vendors": [],
+      "agreements": [],
+      "electricity_access_pct": null,
+      "installed_capacity_mw": null,
+      "notes": "The World Nuclear Association's country profile describes Namibia as having some interest in developing nuclear energy, but identifies no active nuclear-power project, capacity target, vendor, or IAEA Milestones phase. It notes that a nuclear-power-specific regulatory regime was not being developed as of early 2011; that dated statement is not confirmation of the current regulatory position. Namibia's uranium mining activity is not itself evidence of a nuclear electricity programme.",
+      "key_events": [],
+      "sources": [
+        "https://world-nuclear.org/information-library/country-profiles/countries-g-n/namibia"
+      ],
+      "confidence": "Inference",
+      "last_verified": "2026-10-09"
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "region": "West Africa",
+      "program_status": "Exploring",
+      "iaea_milestone_phase": null,
+      "commercial_reactors_operating": 0,
+      "commercial_reactors_under_construction": 0,
+      "capacity_gw_planned": null,
+      "first_grid_target_year": null,
+      "research_reactor": null,
+      "regulator": "Not identified in reviewed sources",
+      "implementing_agency": "Not identified in reviewed sources",
+      "vendors": [],
+      "agreements": [],
+      "electricity_access_pct": null,
+      "installed_capacity_mw": null,
+      "notes": "The IAEA reported on Côte d'Ivoire's legal path for nuclear power in 2025. This supports an Exploring classification, but the reviewed evidence does not establish an active construction project, selected vendor, planned capacity, first-grid target, or IAEA Milestones phase. Regulatory and implementing bodies were not identified in the reviewed source.",
+      "key_events": [
+        {
+          "date": "2025-05",
+          "title": "IAEA reports on Côte d'Ivoire's legal path for nuclear power",
+          "source": "https://www.iaea.org/newscenter/news/shaping-legal-path-nuclear-power-republic-cote-divoire"
+        }
+      ],
+      "sources": [
+        "https://www.iaea.org/newscenter/news/shaping-legal-path-nuclear-power-republic-cote-divoire"
+      ],
+      "confidence": "Inference",
+      "last_verified": "2026-10-09"
     }
   ]
 }
-
